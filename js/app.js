@@ -87,5 +87,4 @@ function adicionarItem(nomeProduto, quantidade, preco, lista) {
         </section>`;
     
     document.getElementById('quantidade').value = '';
-    alert("Produto adicionado.");
 }
